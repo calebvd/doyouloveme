@@ -2,7 +2,6 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
     window.open("https://www.w3schools.com");
 }
 
