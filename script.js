@@ -2,7 +2,8 @@
 
 //click yes btn
 function clickYesButton() {
-    window.open("https://www.w3schools.com");
+    window.open("https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI?si=e0786bfec54b499b");
+    alert("I LOVE YOU TOO!!");
 }
 
 //move button on hover
