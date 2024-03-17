@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    window.open("https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI?si=e0786bfec54b499b");
+    window.open("https://i.imgur.com/hZiODZD.png");
     alert("I LOVE YOU TOO!!");
 }
 
